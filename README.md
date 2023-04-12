@@ -1,2 +1,2 @@
-# revolta-bichos
- Site com o cordel 'A revolta dos bichos'
+# greve-bichos
+ Site com o cordel 'A greve dos bichos'

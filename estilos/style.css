@@ -70,12 +70,12 @@ section{
 
 #img1{
     background-position: center center;
-    background-image: url('../imagens/cicada.jpg');
+    background-image: url('../imagens1/cicada.jpg');
 }
 
 #img2{
     background-position: right center;
-    background-image: url('../imagens/sol.jpg');
+    background-image: url('../imagens1/sol.jpg');
 }
 
 footer{
